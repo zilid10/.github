@@ -2,5 +2,5 @@
 
    Zili Ding is now **[@ZiliDing](https://github.com/ziliding)**.
 
-   All repositories have moved there.
+   All repositories have moved there. Old repository links redirect automatically.
    
